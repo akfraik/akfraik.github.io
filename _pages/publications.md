@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{Alexandra Fraik}}">https://scholar.google.com/citations?user=W3XMQ68AAAAJ&hl=en</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=W3XMQ68AAAAJ&hl=en}}">my google scholar</a>.</u>
 {% endif %}
 
 {% include base_path %}
