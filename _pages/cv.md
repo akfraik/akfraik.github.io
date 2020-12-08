@@ -34,7 +34,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
   <ul>{% for post in site.outreach %}
     {% include archive-single-cv.html %}
