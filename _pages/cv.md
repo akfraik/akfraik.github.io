@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/akfraik/akfraik.github.io/blob/gh-pages/files/Fraik_Grad_CV_1020_Updated.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/akfraik/akfraik.github.io/blob/gh-pages/files/Fraik_Grad_CV_1020_Updated.pdf" target="_blank">Download my CV here.</a>
 
 Education
 ======
