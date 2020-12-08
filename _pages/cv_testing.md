@@ -9,33 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/Fraik_Grad_CV_1020_Updated.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/akfraik/akfraik.github.io/blob/gh-pages/files/Fraik_Grad_CV_1020_Updated.pdf" target="_blank">PDF.</a>
 
 Education
 ======
 * B.S. in Zoology, North Carolina State University, Raleigh, NC,  2015
 * Ph.D in Biology, Washington State University, Pullman, WA, 2021 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -57,4 +36,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.outreach %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
