@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: images/Masthead.jpg
 ---
 
 Hi! I'm Alexandra Fraik (she/her), a Ph.D. candidate in Biology in the 
