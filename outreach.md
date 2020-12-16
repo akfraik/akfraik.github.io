@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: template
 title: "Lecture on conservation of salmonids for non-biology majors"
 collection: outreach
 type: "Outreach teaching"
