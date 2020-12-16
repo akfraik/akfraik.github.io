@@ -3,7 +3,7 @@ layout: default
 title: "Lecture on conservation of salmonids for non-biology majors"
 collection: outreach
 type: "Outreach teaching"
-permalink: /outreach/2020-Teaching
+permalink: /outreach/2020-UIdaho
 venue: "University of Idaho"
 date: 2020-10-01
 location: "Moscow, ID"
