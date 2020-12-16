@@ -5,7 +5,7 @@ collection: outreach
 type: "Outreach teaching"
 permalink: /outreach/2020-Teaching
 venue: "University of Idaho"
-date: 2020-10
+date: 2020-10-01
 location: "Moscow, ID"
 ---
 
