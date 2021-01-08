@@ -226,10 +226,9 @@ defaults:
       path: ""
       type: outreach
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
