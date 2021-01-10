@@ -9,6 +9,5 @@ location: Moscow, ID
 ---
 
 Roles and Responsibilities
-
 ======
 Reviewed articles for Journal of Evolutionary Biology, Frontiers in Ecology and Evolution and Molecular Ecology.
