@@ -3,7 +3,7 @@ layout: default
 title: "The Phoenix Conservancy"
 collection: outreach
 type: "Outreach volunteer work"
-permalink: /outreach/The_Phoneix_Conservancy
+permalink: /outreach/Phoneix-Conservancy-2020
 venue: "The world"
 date: 2017-01-01
 location: "Pullman, WA"
