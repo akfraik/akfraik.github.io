@@ -1,7 +1,7 @@
 ---
 title: 'Elwha River Steelhead Population Genetics Paper Published'
 date: 2021-13-01
-permalink: /posts/2021/01/Elwha-Paper-Published/
+permalink: /posts/2021-01/Elwha-Paper-Published/
 tags:
   - Elwha River
   - Steelhead
